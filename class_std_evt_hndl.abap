@@ -56,7 +56,7 @@ method handle_initialization.
 
 endmethod.
 
-METHOD handle_at_selection_screen.
+method handle_at_selection_screen.
   " Log the AT SELECTION-SCREEN event and any message passed
   write: / 'AT SELECTION-SCREEN Event Triggered'.
 
