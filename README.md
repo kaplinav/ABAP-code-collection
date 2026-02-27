@@ -5,6 +5,38 @@
 
 ## Overview
 
+This repository contains ABAP code examples, grouped into categories and covering a wide range of real-world development tasks.
+
+Examples are organized by task type to ensure quick navigation and practical usability.
+
+---
+
+## Covered Topics
+
+- Reports and ALV
+
+- Open SQL
+
+- Internal tables
+
+- Object-Oriented ABAP
+
+- File handling
+
+- BAPI calls
+
+- HTTP integration
+
+- Adobe Forms
+
+- Enhancements and BAdIs
+
+- Performance optimization
+
+- Design patterns in ABAP
+
+---
+
 SHOWICON program that show all icons with images 
 
 DEMO_DROPDOWN_LIST_BOX demo program with drop-down list screen field
