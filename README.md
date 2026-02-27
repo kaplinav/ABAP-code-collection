@@ -1,5 +1,9 @@
-# ABAP snippets
-ABAP Code Snippets
+# ABAP code collection
+
+[![ABAP](https://img.shields.io/badge/language-ABAP-blue.svg)](https://help.sap.com/doc/abapdocu_latest_index.htm)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+## Overview
 
 SHOWICON program that show all icons with images 
 
